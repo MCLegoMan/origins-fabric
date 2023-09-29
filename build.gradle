@@ -64,7 +64,7 @@ dependencies {
 
 	modImplementation "com.terraformersmc:modmenu:${project.modmenu_version}"
 
-	include modApi("com.mclegoman:reach-entity-attributes:${project.reach_version}")
+	include modApi("com.github.MCLegoMan:reach-entity-attributes:${project.reach_version}")
 }
 
 processResources {
